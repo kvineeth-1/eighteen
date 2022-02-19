@@ -1,0 +1,46 @@
+.first{
+    background-color: red;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: aqua;
+    border: 5px solid red;
+    text-align: center;
+    margin-left: 100px;
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    color: aqua;
+    border: 5px groove red;
+    margin-left: 100px;
+}
+
+body{
+    border: 10px groove hotpink;
+}
+
+.circle{
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    margin-left: 100px;
+}
+
+.one{
+    color: bisque;
+    font-size: 20px;
+
+}
+.two{
+    background-color: blueviolet;
+}
+#four{
+    background-color: violet;
+    color: bisque;
+    font-size: large;
+}
